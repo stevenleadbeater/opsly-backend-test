@@ -1,0 +1,14 @@
+[
+  {
+    "username": "username1",
+    "tweet": "tweet1"
+  },
+  {
+    "username": "username2",
+    "tweet": "tweet2"
+  },
+  {
+    "username": "username3",
+    "tweet": "tweet3"
+  }
+]
